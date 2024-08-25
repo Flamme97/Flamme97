@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oliver</h1>
 <h3 align="center">Junior developer</h3>
 
-- 📄 Know about my experiences **Junior experience with frontend**
+- 📄 Know about my experiences **Worked professionally with Angular, vue, typescript**
 
 - 🌱 I’m currently learning **Go**
 
