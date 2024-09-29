@@ -3,7 +3,7 @@
 
 - 📄 Know about my experiences **Worked professionally with Angular, vue, typescript**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **advanced CSS &6 Design**
 
 - 💬 Ask me about **Angular, typescript**
 
