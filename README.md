@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GO && SQL**
 
-- 💬 Ask me about **Angular, typescript && GO LANG**
+- 💬 Ask me about **Angular, typescript && GO**
 
 - 📫 How to reach me **oliver_bech@hotmail.com**
 
