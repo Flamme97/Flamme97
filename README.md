@@ -3,9 +3,9 @@
 
 - 📄 Know about my experiences **Worked professionally with Angular, vue, typescript**
 
-- 🌱 I’m currently learning **GO && SQL**
+- 🌱 I’m currently advancing my knowledge in GO
 
-- 💬 Ask me about **Angular, typescript && GO**
+- 💬 Ask me about **Angular, typescript, SQL & GO**
 
 - 📫 How to reach me **oliver_bech@hotmail.com**
 
